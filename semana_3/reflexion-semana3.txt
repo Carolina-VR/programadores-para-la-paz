@@ -1,0 +1,10 @@
+Mantener un registro de cambios mediante Git es crucial para la
+estabilidad y el éxito de cualquier proyecto de software. Esta
+práctica permite rastrear con precisión la evolución del código,
+facilitando la identificación de qué se modificó, cuándo y por
+quién. De esta manera, si un nuevo cambio introduce un error o
+inestabilidad, los desarrolladores pueden revertir el sistema
+a un estado previo funcional en cuestión de segundos, reduciendo
+el impacto. Además, Git optimiza el trabajo en equipo mediante
+ramas, permitiendo que múltiples programadores colaboren en
+paralelo sin interferir en el desarrollo principal del proyecto.
