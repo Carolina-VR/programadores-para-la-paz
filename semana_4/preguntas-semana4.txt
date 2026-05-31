@@ -1,0 +1,27 @@
+Pregunta: 1.
+
+¿Qué es Node.js?
+
+R/= B
+
+
+Pregunta: 2.
+
+¿Qué hace el comando npm init?
+
+R/= B
+
+
+Pregunta: 3.
+
+¿Qué es Express en Node.js?
+
+R/= B
+
+
+Pregunta 4.
+
+¿Qué hace una ruta en una aplicación web?
+
+
+R/= B
