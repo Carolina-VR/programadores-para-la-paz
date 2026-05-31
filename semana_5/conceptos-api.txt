@@ -1,0 +1,4 @@
+Recibe un mensaje enviado por el usuario y responde confirmando que el reporte fue recibido
+
+
+Permite que los ciudadanos envíen reportes, quejas o sugerencias sobre problemas de la comunidad

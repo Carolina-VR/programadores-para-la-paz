@@ -1,0 +1,5 @@
+Al abrir la ruta: http://localhost:3000/   -   Me dice Servidor activo
+
+Con esta, http://localhost:3000/saludo -  Dice:  Hola comunidad
+
+Por ultimo esta ruta: http://localhost:3000/mensaje/juan   -   Dice:  Hola juan

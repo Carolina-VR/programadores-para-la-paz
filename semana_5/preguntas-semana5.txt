@@ -1,0 +1,27 @@
+Pregunta: 1.
+
+¿Qué es una ruta (route) en Express?
+
+R/= B
+
+
+Pregunta: 2.
+
+¿Qué método HTTP se usa normalmente para consultar información?
+
+R/= B
+
+
+Pregunta: 3.
+
+¿Qué método HTTP se usa normalmente para enviar o registrar información?
+
+R/= A
+
+
+Pregunta 4.
+
+¿Qué significa API?
+
+
+R/= B
