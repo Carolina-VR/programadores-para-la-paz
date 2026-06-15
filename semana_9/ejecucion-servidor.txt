@@ -1,0 +1,8 @@
+¿Qué ocurre cuando ejecutas node server.js?
+El entorno de ejecución Node.js compila e interpreta el código JavaScript del archivo. Al hacerlo, levanta un proceso local en el sistema operativo, inicializa la aplicación Express y reserva el puerto 3000 para empezar a escuchar peticiones entrantes de red.
+
+¿Qué mensaje aparece en la terminal?
+Aparece el mensaje configurado en el callback del método listen: "Servidor ejecutándose en puerto 3000".
+
+¿Qué sucede cuando visitas la ruta /estado?
+El navegador envía una solicitud HTTP GET al servidor. El framework Express empareja la ruta '/estado' y ejecuta la función asignada, respondiendo con un estado 200 OK y un objeto en formato JSON que contiene los pares clave-valor de 'estado' y 'servicio'.
