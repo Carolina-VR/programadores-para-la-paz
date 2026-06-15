@@ -1,0 +1,5 @@
+{
+  "mensaje": "Incidencia registrada",
+  "tipo": "iluminación publica",
+  "descripcion": "La comunidad reporta que una lampara del parque no funciona desde hace varios dias."
+}
