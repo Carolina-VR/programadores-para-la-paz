@@ -1,0 +1,3 @@
+Al consultar la ruta GET /reportes después de realizar la petición POST, recibe un arreglo en formato JSON que contiene el reporte previamente registrado. 
+
+Lo que sucede internamente es que el servidor Express procesa la solicitud HTTP GET y responde devolviendo el estado actual de la variable global 'reportes'. Como esta variable es un array en memoria, almacena temporalmente el objeto con el 'id: 1', el 'tipo' y la 'descripcion' enviados en el cuerpo del POST. La respuesta es un código de estado 200 OK junto con la lista actualizada de incidencias en tiempo real.
