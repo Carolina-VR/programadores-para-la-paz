@@ -1,0 +1,3 @@
+1.Utilizar contraseñas fuertes
+2.Mantener tanto el sistema operativo como todo el software y las dependencias del proyecto actualizados a su última versión estable. Las actualizaciones suelen incluir parches esenciales que corrigen vulnerabilidades de seguridad que los atacantes podrían explotar para ejecutar código malicioso o comprometer el entorno local
+3.Implementar una política estricta de copias de seguridad (backups) periódicas para evitar la pérdida de información ante incidentes o ataques informáticos.

@@ -1,0 +1,12 @@
+1. uname -a:
+Este comando muestra un resumen completo de la información del sistema operativo y del hardware de la máquina
+
+2. whoami:
+Este comando imprime en la terminal el nombre de usuario de la sesión actual
+
+Por qué es útil conocer información del sistema al administrar un servidor?
+
+
+1. Seguridad: Permite saber la versión exacta del kernel para identificar si el servidor es vulnerable y si necesita parches de seguridad urgentes.
+2. Control de permisos: Evita errores críticos al confirmar con qué usuario estás operando antes de ejecutar comandos que puedan alterar el sistema.
+3. Compatibilidad: Asegura que el software, las bases de datos o las dependencias que vayas a instalar sean compatibles con la arquitectura del hardware.

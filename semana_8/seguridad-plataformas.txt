@@ -1,0 +1,9 @@
+1. No exponer públicamente datos personales (como números de teléfono, correos electrónicos o direcciones exactas) de los ciudadanos que reportan incidencias. El sistema debe mostrar únicamente la información esencial del reporte (tipo y descripción) para proteger la identidad de los usuarios frente a posibles represalias o acoso.
+
+2. Implementar políticas de contraseñas robustas y obligatorias para los usuarios y administradores del sistema. Además, se debe asegurar el correcto almacenamiento de estas claves en la base de datos utilizando funciones de hash seguras (como bcrypt), evitando a toda costa guardar credenciales en texto plano.
+
+3. Utilizar obligatoriamente el protocolo HTTPS mediante certificados SSL/TLS para garantizar que toda la información que viaja entre el navegador del ciudadano y el servidor (como datos de inicio de sesión o detalles del reporte) esté cifrada y no pueda ser interceptada por terceros en la red.
+
+4. Mantener un registro estricto, automatizado e inmutable de quién accede al sistema y qué acciones realiza (crear, modificar o eliminar datos). Esto es clave para la veeduría y la transparencia, permitiendo auditar el comportamiento de los administradores y detectar intentos de acceso no autorizados.
+
+5. Limitar estrictamente el acceso a la información sensible. Un usuario común solo debe ver sus propios datos y los reportes públicos, mientras que las funciones avanzadas (como modificar estados de reportes o ver datos de contacto de los denunciantes) deben reservarse exclusivamente a roles administrativos autenticados y autorizados.
